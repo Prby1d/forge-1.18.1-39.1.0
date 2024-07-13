@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model": "attachments:block/attachment_applier"}
+  }
+}

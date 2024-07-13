@@ -1,0 +1,21 @@
+{
+  "item.attachments.compact_furnace": "Compact Furnace",
+  "item.attachments.strays_cloth": "Stray's Cloth",
+  "item.attachments.snorkeling": "Snorkeling",
+  "item.attachments.blast_rod": "Blast Rod",
+
+  "block.attachments.attachment_applier": "Attachment Applier",
+  "block.attachments.jump_boost": "Jump Boost",
+
+  "itemGroup.attachmentstab": "Attachments",
+
+  "item.attachments.blast_rod.no_minerals": "Foundn't",
+
+
+  "tooltip.attachments.compact_furnace": "§7Smelts mined items",
+  "tooltip.attachments.strays_cloth": "§7Applies slowness when firing normal arrows",
+  "tooltip.attachments.snorkeling": "§7Provides water breathing up to §92§7 blocks underwater",
+  "tooltip.attachments.blast_rod": "§7Scans for minerals below selected block",
+  "tooltip.attachments.jump_boost.1": "§7Provides jump boost when step on",
+  "tooltip.attachments.jump_boost.2": "§7Left/right click to change height"
+}
